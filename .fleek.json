@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "c52060df-ed65-49bf-9e5c-1d1c8dc400de",
+    "team": "luxumbra-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "plain-snow-0685"
+  },
+  "build": {
+    "baseDir": ".",
+    "publicDir": "",
+    "rootDir": ""
+  }
+}

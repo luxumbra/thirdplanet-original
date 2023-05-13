@@ -1,0 +1,268 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/34c8e875/4885912/images/ixz1KIwT_400x400.jpg");
+  background-position: 50% 69.35%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 647px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 813px;
+  margin: 487px 0 11px auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 198px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 19px 0 0 361px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -2px 0 0 361px;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin: -3px 0 0 361px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 43px;
+  min-height: 16px;
+  width: 194px;
+  min-width: 114px;
+  margin: -3px 1px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 37px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 37px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 533px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 268px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 268px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 268px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 88px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 644px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 745px;
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 453px;
+  height: 236px;
+  margin: 25px auto 0 589px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 453px;
+  height: 180px;
+  object-position: 50% 50%;
+  margin: 37px 98px 0 auto;
+}
+
+.u-section-2 .u-video-1 {
+  width: 453px;
+  height: 454px;
+  margin: -454px auto 37px 99px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: 553px;
+    margin-top: -89px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 438px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 181px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-left: 49px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-1 {
+    margin-left: 218px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-right: 87px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 831px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 177px;
+    margin-top: 53px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 136px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 341px;
+    margin-top: -409px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 792px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 23px 686px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 23px 392px 44px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 486px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 192px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 266px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 86px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+}.invert100 {
+}

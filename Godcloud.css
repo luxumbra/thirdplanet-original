@@ -1,0 +1,190 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/34c8e875/4885912/images/GodCloud1.png");
+  background-position: 50% 35.19%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 696px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 460px;
+  margin: 0 0 60px auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 233px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 17px 1px 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0 0 0 20px;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin: -3px 0 0 143px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 43px;
+  min-height: 16px;
+  width: 119px;
+  min-width: 65px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 37px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 43px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 574px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 23px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 801px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 745px;
+  margin: 22px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 453px;
+  height: 453px;
+  margin: 22px auto 0 99px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 453px;
+  height: 615px;
+  margin: -453px 97px 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+  width: 453px;
+  height: 124px;
+  object-position: 50% 50%;
+  margin: -124px auto 38px 99px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: 553px;
+    margin-top: -89px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 438px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-top: -409px;
+    margin-left: 49px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 181px;
+    margin-top: -1px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-1 {
+    margin-left: 218px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-right: 87px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-left: 87px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 831px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: 53px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 462px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 136px;
+    margin-top: 152px;
+    margin-left: 0;
+  }
+}.invert100 {
+}
