@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("https://assets.nicepagecdn.com/34c8e875/4885912/images/3PSDropShadow-Title1.png");
+  background-image: url("images/3PSDropShadow-Title1.png");
   background-position: 50% 50%;
 }
 
@@ -63,7 +63,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 136px;
-  background-image: url("https://assets.nicepagecdn.com/34c8e875/4885912/images/MLMWhite.png");
+  background-image: url("images/MLMWhite.png");
   background-position: 50% 50%;
 }
 
@@ -128,7 +128,7 @@
 
 .u-section-3 .u-image-6 {
   min-height: 136px;
-  background-image: url("https://assets.nicepagecdn.com/34c8e875/4885912/images/BlackRisingSun.png");
+  background-image: url("images/BlackRisingSun.png");
   background-position: 50% 50%;
 }
 
@@ -628,7 +628,7 @@
     height: 161px;
   }
 } .u-section-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://assets.nicepagecdn.com/34c8e875/4885912/images/167319589_10158312162079065_3692742439013185626_n.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/167319589_10158312162079065_3692742439013185626_n.jpg");
 }
 
 .u-section-7 .u-sheet-1 {
@@ -689,7 +689,7 @@
     width: 340px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://assets.nicepagecdn.com/34c8e875/4885912/images/2unknown.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2unknown.png");
 }
 
 .u-section-8 .u-sheet-1 {
